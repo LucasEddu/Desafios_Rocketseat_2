@@ -1,0 +1,21 @@
+html{
+    background-color: #eaeaea;
+    border-radius: 10px;
+}
+body{
+    background-color: #FFFFFF;
+    font-family: 'roboto', sans-serif;
+}
+h1, h3{
+    color: #1b1b1b;
+    font-size: 28px;
+}
+li{
+    color: #39393a;
+    font-size: 16px;
+}
+img{
+    width: 75%;
+    margin-top: 35px;
+    margin-left: 75px;
+}
